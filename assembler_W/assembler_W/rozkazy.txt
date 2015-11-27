@@ -1,0 +1,7 @@
+1 DOD 1
+2 ODE 1
+3 LAD 1 
+4 POB 1
+5 SOB 1
+6 SOM 1
+7 STP 0

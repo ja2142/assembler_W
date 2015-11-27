@@ -1,0 +1,11 @@
+POB liczba
+SOM ujemna
+LAD wynik
+STP
+ujemna: ODE liczba
+ODE liczba
+LAD wynik
+STP
+liczba: RST -21
+wynik: RPA
+KON
